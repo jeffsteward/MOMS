@@ -60,7 +60,7 @@ Museum of the Modern Snowglobe.</p>
 </div>
 
 
-<div class="infosection">
+<div class="infosection" style="min-height:330px;">
 <h4>States not yet represented in the collection</h4>
 
 <div style="float:right;">
