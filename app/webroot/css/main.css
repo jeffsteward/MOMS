@@ -1,0 +1,53 @@
+/* * {margin:0;padding:0;}*/
+body {font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:0.8em;height:100%;}
+img {border:0px;}
+
+#browser_message {margin:0px;display:none;height:30px;background-color:#F88017;color:#ffffff;padding-top:10px;text-align:center;width:100%;position:absolute;top:0px;left:0px;font-size:14px;}
+#browser_reset {clear:both;}
+
+#header {float:left;padding-right:30px;padding-bottom:10px;}
+#header .title {font-size:50px;font-family:verdana;font-weight:bolder;padding-bottom:15px;}
+#header .title a {text-decoration:none;color:#000000;}
+#header .title div {line-height:105%}
+
+#menu {font-size:15px;}
+#menu ul {margin:0px;padding:0px;}
+#menu ul li {list-style-type:none;display:inline;padding-right:5px;}
+#menu ul li:last-child {padding-right:0px;margin-right:0px;}
+
+#menu ul li ul {width:175px;position:relative;top:35px;left:20px;}
+#menu ul li ul li {display:block;padding-bottom:5px;}
+#menu .tooltip {display:none;background:url(/img/menu/gray_arrow_bottom-2.png);height:144px;padding:0px;width:209px;font-size:13px;} 
+
+#pagecontent {float:left;width:630px;}
+
+.globe {float:left;width:85px;height:85px;}
+.offview {opacity:0.15;}
+
+.globemedia {margin:0px;padding:0px;float:left;width:400px;height:400px;}
+.globemedia ul {width:400px;height:400px;}
+.globemedia div.video {width:400px;height:400px;position:relative;top:50px;}
+.globedata {float:left;margin-left:10px;width:290px;}
+.globedata table, .globedata div {color: #888888;font-size:x-small;}
+.globedata table tr td {vertical-align: top;}
+.globedata div.interpretation {border-top:1px solid #a0a0a0;margin-top:10px;padding-top:10px;}
+
+#map_canvas {float:left;height:600px;width:100%;overflow:hidden;margin-bottom:20px;}
+
+#news {}
+#news .item {padding-bottom:15px;margin-bottom:15px;border-bottom:1px solid #a0a0a0;}
+#news .item:last-child {border:0px;}
+#news .item .title {font-weight:bolder;}
+#news .item .title a {text-decoration:none;color:#000000;}
+#news .item .dt {color:#777;font-size:11px;}
+#news .item .footer {color:#777;font-size:11px;margin-top:15px;}
+#news .item .footer .comments {float:right;}
+#news .item .content {}
+
+ul.factlist {list-style-type:none;padding:0;margin-left:0px;}
+
+div.infosection {border-bottom:1px solid #a0a0a0;padding-bottom:15px;margin-bottom:20px;}
+div.infosection:last-child {border:0px;}
+
+/* See http://www.cssstickyfooter.com/ */
+#footer {position: relative;height:25px;margin-top:25px;clear:both;}
