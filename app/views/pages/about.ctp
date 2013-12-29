@@ -42,8 +42,8 @@ Museum of the Modern Snowglobe.</p>
 
 <ul class="factlist">
 <li>First snowglobe: <?php echo $this->Html->link('1997, Philadelphia', array('controller' => 'snowglobes', 'action' => 'view', 42), array('name' => 'globe'));?></li>
-<li>Most recent acquisition: <?php echo $this->Html->link('2012, Bronx Zoo', array('controller' => 'snowglobes', 'action' => 'view', 201), array('name' => 'globe'));?></li>
-<li>Total snowglobes: 188</li>
+<li>Most recent acquisition: <?php echo $this->Html->link('2013, Sweden', array('controller' => 'snowglobes', 'action' => 'view', 206), array('name' => 'globe'));?></li>
+<li>Total snowglobes: 196</li>
 <li>Museum groundbreaking: September 2010</li>
 <li>Museum opening: November 6, 2010</li>
 <li>Opening weekend attendance: 273</li>
@@ -75,7 +75,6 @@ Museum of the Modern Snowglobe.</p>
 					'color:blue|Michigan,USA',
 					'color:blue|Mississippi,USA',
 					'color:blue|Montana,USA',
-					'color:blue|New Mexico,USA',
 					'color:blue|North Dakota,USA',
 					'color:blue|Oklahoma,USA',
 					'color:blue|Oregon,USA',
@@ -97,7 +96,6 @@ Museum of the Modern Snowglobe.</p>
 <li>Michigan</li>
 <li>Mississippi</li>
 <li>Montana</li>
-<li>New Mexico</li>
 <li>North Dakota</li>
 <li>Oklahoma</li>
 <li>Oregon</li>
