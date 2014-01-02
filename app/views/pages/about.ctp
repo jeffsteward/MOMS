@@ -74,7 +74,6 @@ Museum of the Modern Snowglobe.</p>
 					'color:blue|Kentucky,USA',
 					'color:blue|Michigan,USA',
 					'color:blue|Mississippi,USA',
-					'color:blue|Montana,USA',
 					'color:blue|North Dakota,USA',
 					'color:blue|Oklahoma,USA',
 					'color:blue|Oregon,USA',
@@ -95,7 +94,6 @@ Museum of the Modern Snowglobe.</p>
 <li>Kentucky</li>
 <li>Michigan</li>
 <li>Mississippi</li>
-<li>Montana</li>
 <li>North Dakota</li>
 <li>Oklahoma</li>
 <li>Oregon</li>
