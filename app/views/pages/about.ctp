@@ -43,7 +43,7 @@ Museum of the Modern Snowglobe.</p>
 <ul class="factlist">
 <li>First snowglobe: <?php echo $this->Html->link('1997, Philadelphia', array('controller' => 'snowglobes', 'action' => 'view', 42), array('name' => 'globe'));?></li>
 <li>Most recent acquisition: <?php echo $this->Html->link('2013, Sweden', array('controller' => 'snowglobes', 'action' => 'view', 206), array('name' => 'globe'));?></li>
-<li>Total snowglobes: 196</li>
+<li>Total snowglobes: 198</li>
 <li>Museum groundbreaking: September 2010</li>
 <li>Museum opening: November 6, 2010</li>
 <li>Opening weekend attendance: 273</li>
