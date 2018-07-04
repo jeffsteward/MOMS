@@ -1,5 +1,0 @@
-<iframe title="YouTube video player" width="400" height="300" src="http://www.youtube.com/embed/nhomdvQ_cro?rel=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe src="http://player.vimeo.com/video/20021344?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0"></iframe>
-
-<object type="application/x-shockwave-flash" width="400" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=bc58305d69&photo_id=5463196795"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=bc58305d69&photo_id=5463196795" height="300" width="400"></embed></object>
