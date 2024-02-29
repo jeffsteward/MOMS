@@ -1,0 +1,236 @@
+%YAML 1.1
+---
+# moms.news
+-
+  NewsID: 1
+  Content: "This is going to be the best year yet for the Museum of the Modern Snowglobe. We predict record attendance in 2011. Just you wait and see."
+  Title: "New Year, New Everything"
+  NewsDate: "2011-01-01 16:24:00"
+  Published: true
+  EnteredDate: "2011-01-24 18:21:36"
+  Author: "Jeff"
+  Category: "General"
+-
+  NewsID: 2
+  Content: "The museum has several exciting recent acquistions. <a href=\"http://museumofthemodernsnowglobe.com/snowglobes/view/184\">Connecticut</a> is now represented in the collection leaving Rhode Island as the gaping hole in this New England based museum. And, St. Thomas continues to make its mark on the collection with <a href=\"http://museumofthemodernsnowglobe.com/snowglobes/view/181\">another addition</a> from the Virgin Islands."
+  Title: "New additions"
+  NewsDate: "2011-01-18 00:00:00"
+  Published: true
+  EnteredDate: "2011-01-24 18:22:38"
+  Author: "Jeff"
+  Category: "Announcements, Acquisitions"
+-
+  NewsID: 3
+  Content: "The Museum of the Modern Snowglobe is gearing up to open its doors for another two days during <a href=\"http://www.somervilleopenstudios.org/\">Somerville Open Studios</a> April 30 and May 1, 2011. Stay tuned for details."
+  Title: "Open studios"
+  NewsDate: "2011-01-21 00:00:00"
+  Published: true
+  EnteredDate: "2011-01-24 18:23:09"
+  Author: "Jeff"
+  Category: "Announcements"
+-
+  NewsID: 4
+  Content: "Real snow is not like snowglobe snow. It is cold."
+  Title: "Snow fact #1"
+  NewsDate: "2011-01-24 21:12:24"
+  Published: true
+  EnteredDate: "2011-01-24 21:12:25"
+  Author: "Jeff"
+  Category: "General, Fact"
+-
+  NewsID: 5
+  Content: "The Museum now has an RSS feed. <a href=\"http://feeds.feedburner.com/MuseumOfTheModernSnowglobe\">Subscribe</a> in your favorite reader."
+  Title: "Feed me"
+  NewsDate: "2011-01-29 19:44:22"
+  Published: true
+  EnteredDate: "2011-01-29 19:44:23"
+  Author: "Jeff"
+  Category: "Announcements"
+-
+  NewsID: 6
+  Content: "Snowfall for the greater Boston area is poised to fill the <a href=\"http://www.boston.com/news/weather/graphics/2011_snowfall/\">Shaq-o-meter</a>. That is no small feat."
+  Title: "Snow fact #2"
+  NewsDate: "2011-01-31 20:16:45"
+  Published: true
+  EnteredDate: "2011-01-31 18:16:46"
+  Author: "Jeff"
+  Category: "General, Fact"
+-
+  NewsID: 7
+  Content: "I know a lot of you are probably shocked that the Museum of the Modern Snowglobe did not make the cut for <a href=\"http://www.googleartproject.com\">Art Project</a>, but even if we did the museum is just too over committed at the moment. In due time we'll be on there."
+  Title: "Art Project"
+  NewsDate: "2011-02-01 19:58:01"
+  Published: true
+  EnteredDate: "2011-02-01 18:00:11"
+  Author: "Jeff"
+  Category: "General, Links"
+-
+  NewsID: 8
+  Content: "These snowglobes are worth every minute you can spare. <a href=\"http://www.martin-munoz.com/recent/indexTRAVELERS.html\">Walter Martin and Paloma Muñoz</a>."
+  Title: "Travelers"
+  NewsDate: "2011-02-03 21:02:43"
+  Published: true
+  EnteredDate: "2011-02-03 19:02:50"
+  Author: "Jeff"
+  Category: "General, Links"
+-
+  NewsID: 9
+  Content: "Have snowglobe, will travel. But there are perils. <a href=\"http://online.wsj.com/article/SB10001424052748703951704576091983165222882.html\">Read about them</a> in the WSJ."
+  Title: "Perils of the collector"
+  NewsDate: "2011-02-06 21:50:00"
+  Published: true
+  EnteredDate: "0000-00-00 00:00:00"
+  Author: "Jeff"
+  Category: "General, Links"
+-
+  NewsID: 10
+  Content: "Snow is another word for no parking."
+  Title: "Snow fact #3"
+  NewsDate: "2011-02-21 10:00:00"
+  Published: true
+  EnteredDate: "2011-02-06 19:04:12"
+  Author: "Jeff"
+  Category: "General, Fact"
+-
+  NewsID: 11
+  Content: "The museum has received some attention on a variety of information outlets. Have a look:\r\n\r\n<p><a href=\"http://www.boston.com/yourtown/news/somerville/2011/02/by_danielle_dreilinger_globe_c_66.html\">Your Town Somerville</a></p>\r\n\r\n<p><a href=\"http://quercusdesign.blogspot.com/2011/02/snowglobe-love.html\">Quercus Design</a></p>\r\n\r\n<p><a href=\"http://www.thingsmagazine.net/?p=3315\">things magazine</a></p>\r\n\r\n<p><a href=\"http://www.whorange.net/whorange/2011/02/glorious-globes-from-the-museum-of-modern-snowglobes.html\">WHORANGE</a></p>\r\n\r\n<p><a href=\"http://www.junk-culture.com/2011/01/collections-museum-of-modern-snowglobe.html\">Junk Culture</a></p>"
+  Title: "News about news"
+  NewsDate: "2011-02-12 10:30:17"
+  Published: true
+  EnteredDate: "2011-02-12 10:30:00"
+  Author: "Jeff"
+  Category: "Press"
+-
+  NewsID: 13
+  Content: "We recognize that it is difficult for some of you to get to the museum to shake the snowglobes so we're shaking them for you. Click through our selection on the <a href=\"http://museumofthemodernsnowglobe.com/snowglobes/favorites\">staff favorites page</a> as well as a <a name=\"globe\" href=\"http://museumofthemodernsnowglobe.com/snowglobes/view/140\">few</a> <a name=\"globe\" href=\"http://museumofthemodernsnowglobe.com/snowglobes/view/172\">additional</a> <a name=\"globe\" href=\"http://museumofthemodernsnowglobe.com/snowglobes/view/151\">choice</a> <a name=\"globe\" href=\"http://museumofthemodernsnowglobe.com/snowglobes/view/105\">globes</a> to see them in action."
+  Title: "Shake it"
+  NewsDate: "2011-02-20 23:00:13"
+  Published: true
+  EnteredDate: "0000-00-00 00:00:00"
+  Author: "Jeff"
+  Category: "Announcements"
+-
+  NewsID: 14
+  Content: "<p>Exciting times are upon us. Starting right this very moment for every snowglobe that has been measured, and quite a number of them have been measured, you'll see an image depicting how large the snowglobe would be if you were holding it in your hand and your hand were about the size of this disembodied mitt.</p>\r\n<img src=\"/assets/images/news/news-2011-02-24-01.png\"><br/>\r\n<img src=\"/assets/images/news/news-2011-02-24-02.png\">"
+  Title: "It's all relative"
+  NewsDate: "2011-02-24 20:23:30"
+  Published: true
+  EnteredDate: "2011-02-24 23:13:32"
+  Author: "Jeff"
+  Category: "Announcements"
+-
+  NewsID: 15
+  Content: "Thomas Doyle constructs objects that would make awesome snowglobes. My votes are on <a href=\"http://www.thomasdoyle.net/escalation_fr.html\">Escalation</a> and <a href=\"http://www.thomasdoyle.net/sleep_fr.html\">Sleep on your stomach, fold your arms</a>. Have a look at <a href=\"http://www.thomasdoyle.net\">all of them</a> and report back."
+  Title: "Distillation, reclamations, and bearings"
+  NewsDate: "2011-03-01 21:44:21"
+  Published: true
+  EnteredDate: "2011-03-01 19:44:30"
+  Author: "Jeff"
+  Category: "General, Links"
+-
+  NewsID: 16
+  Content: "<p>The concepts ranged from grandiose to minimal. Some of the original designs for the museum included snowglobes attached to platforms mounted with hand cranks which visitors could turn to agitate the snow. A more modest idea was to construct many small walls with narrow shelving staggered throughout the museum. Other ideas included a sixteen foot long half wall bisecting the entire museum space or one giant tiered pedestal in the center of the space.</p>\r\n<p>\r\n<img src=\"/assets/images/news/sketch-1.jpg\" width=\"400\"><br/>\r\n<img src=\"/assets/images/news/sketch-2.jpg\" width=\"400\">\r\n</p>\r\n"
+  Title: "Drawing the museum, part 1"
+  NewsDate: "2011-03-03 20:54:53"
+  Published: true
+  EnteredDate: "2011-03-03 18:55:00"
+  Author: "Jeff"
+  Category: "Behind the scenes"
+-
+  NewsID: 17
+  Content: "<p>Here are a few additional ideas for the layout of the museum that focus on creating a more intimate visitor experience by forcing the viewer in to close quarters with the snowglobes. One of the designs included a play on the <a href=\"http://moma.org/\">MoMA</a> logo.</p> \r\n<img src=\"/assets/images/news/sketch-3.jpg\" width=\"400\"><br/>\r\n<img src=\"/assets/images/news/sketch-5.jpg\" width=\"400\">"
+  Title: "Drawing the museum, part 2"
+  NewsDate: "2011-03-13 16:39:16"
+  Published: true
+  EnteredDate: "0000-00-00 00:00:00"
+  Author: "Jeff"
+  Category: "Behind the scenes"
+-
+  NewsID: 18
+  Content: "<p>Here are a few quick sketches that were put together when working on the problem of how to best illustrate the relative size of each snowglobe. The first idea was to show vertical and horizonal rulers next to each globe. The second idea was to pair each globe with an everyday object like a hand or baseball. Since snowglobes are really meant to be handled it didn't take too long to decide on the cupped hand holding the snowglobe. Using some basic math and a few lines of code, each snowglobe image is scaled on the fly to match the dimensions of the image of the cupped hand. The hand is then overlayed on the snowglobe image. There you have it. Click though the images of our <a href=\"http://museumofthemodernsnowglobe.com/collection/favorites\">favorites</a> to see it in action.</p>\r\n<img src=\"/assets/images/news/relative-size-concepts.png\" width=\"400\">"
+  Title: "Drawing the website, part 1"
+  NewsDate: "2011-03-14 22:15:34"
+  Published: true
+  EnteredDate: "2011-03-14 19:15:45"
+  Author: "Jeff"
+  Category: "Behind the scenes"
+-
+  NewsID: 19
+  Content: "<p>These sketches were made while working on the mobile version of the website. The design is a simple linear layout taking cues from the vast number of existing mobile websites for museums like the <a href=\"http://www.imamuseum.org/mobile\">IMA</a>, <a href=\"http://m.walkerart.org/\">Walker Art Center</a>, and <a href=\"http://www.brooklynmuseum.org/mobile/\">Brooklyn Museum</a>. The sketch on the right includes a set of thumbs up/thumbs down buttons for rating the snowglobes.</p>\r\n<img src=\"/assets/images/news/mobile-concepts.png\" width=\"400\">"
+  Title: "Drawing the website, part 2"
+  NewsDate: "2011-03-16 18:06:12"
+  Published: true
+  EnteredDate: "2011-03-14 19:33:14"
+  Author: "Jeff"
+  Category: "Behind the scenes"
+-
+  NewsID: 20
+  Content: "Today was <a href=\"http://www.museumpics.com/\">Picture a Museum Day</a>. See the results on <a href=\"http://www.flickr.com/groups/1602793@N24/\">Flickr</a> and <a href=\"http://twitter.com/#!/search/museumpics\">Twitter</a>."
+  Title: "Museums inside and out"
+  NewsDate: "2011-03-17 21:55:19"
+  Published: true
+  EnteredDate: "2011-03-17 11:33:20"
+  Author: "Jeff"
+  Category: "General, Links"
+-
+  NewsID: 21
+  Content: "<p>The wall labels are being revised over the next few weeks in an attempt to create a richer viewing experience for museum visitors. These sketches illustrate a few ideas for incorporating <a href=\"http://en.wikipedia.org/wiki/QR_code\">QR codes</a>, maps, phone numbers, and other interpretive data.</p><a name=\"magnify\" title=\"Wall label concepts\"  href=\"/assets/images/news/sketch-6.png\"><img src=\"/assets/images/news/sketch-6.png\" width=\"400\"></a>"
+  Title: "Drawing the museum, part 3"
+  NewsDate: "2011-03-21 22:35:00"
+  Published: true
+  EnteredDate: "2011-03-21 19:35:11"
+  Author: "Jeff"
+  Category: "Behind the scenes"
+-
+  NewsID: 22
+  Content: "The next iteration of the wall labels is complete and ready for production. Below is a side-by-side comparison of the old and the new. The main feature of the new labels is the map at the bottom. There are two pins plotted on the map, one pin for the museum and the other at the place depicted in the snowglobe. Just above the map is a message indicating the distance from the place depicted to the museum as well as the travel time just in case the snowglobe inspires you to take an impromptu trip.\r\n<br/><br/>\r\nThe new labels also have a QR code in the upper right which when scanned will get you to the same information on the museums website with the added ability to rank the snowglobe and/or leave a comment about it.<br/><br/>\r\n<a name=\"magnify\" title=\"Wall label redesign-old versus new\" href=\"/assets/images/news/wall-label-redesign-1.png\"><img src=\"/assets/images/news/wall-label-redesign-1.png\" width=\"80%\"></a>"
+  Title: "Drawing the museum, part 4"
+  NewsDate: "2011-04-12 23:32:48"
+  Published: true
+  EnteredDate: "2011-04-12 12:44:50"
+  Author: "Jeff"
+  Category: "Behind the scenes"
+-
+  NewsID: 23
+  Content: "Get ready to share your stories. Next time you visit the museum, grab one of our new postcards and draw your own snowglobe on the front and write a story about it on the back. For those of you who want to share your creation with the world, we'll post your drawings and stories on the museum's website for all to see.<br/><br/>\r\n<a name=\"magnify\" title=\"Draw your own snowglobe\" href=\"/assets/images/news/news-2011-04-17-01.png\"><img src=\"/assets/images/news/news-2011-04-17-01.png\" width=\"80%\"></a>"
+  Title: "Draw your own museum, part 1"
+  NewsDate: "2011-04-17 23:16:00"
+  Published: true
+  EnteredDate: "2011-04-17 19:11:04"
+  Author: "Jeff"
+  Category: "Announcements"
+-
+  NewsID: 24
+  Content: "To all of you that want to visit the museum but haven't booked an appointment, the Museum of the Modern Snowglobe will throw open its doors on April 30 and May 1 from noon to 6 pm as part of Somerville Open Studios. The Vernon Street Studios building, which is MoMS home base, is slated to have over 100 artists alone. So come get lost in the art and stop by the museum to shake some snowglobes. You can find more info about open studios <a href=\"http://www.somervilleopenstudios.org/\">here</a> and <a href=\"http://www.vernonstreet.com/\">here</a>. See you next weekend."
+  Title: "No appointment needed"
+  NewsDate: "2011-04-24 22:50:30"
+  Published: true
+  EnteredDate: "2011-04-24 18:50:44"
+  Author: "Jeff"
+  Category: "Announcements"
+-
+  NewsID: 25
+  Content: "<p>Two weeks ago, during <a href=\"http://www.somervilleopenstudios.org/\">Somerville Open Studios</a>, visitors to the museum had the chance to draw their own snowglobe. We set up a table with postcards and markers for all to draw and by the end of the two days the museum acquired 27 hand drawn snowglobes. See if you can tell which drawings were done by adults and which were done by kids while browsing through <a href=\"http://flic.kr/s/aHsjuMTEEd\">the set on Flickr</a>. Below are two of our favorites from the weekend.</p>\r\n\r\n<p>Thanks to all that visited and extra thanks to all that contributed a drawing to the museum.</p>\r\n\r\n<p><a href=\"http://www.flickr.com/photos/museumofthemodernsnowglobe/5723917869/\" title=\"Draw your own snowglobe by Museum of the Modern Snowglobe, on Flickr\"><img src=\"http://farm3.static.flickr.com/2560/5723917869_4a6772a42c.jpg\" width=\"80%\" alt=\"Draw your own snowglobe\"></a></p>\r\n\r\n<p><a href=\"http://www.flickr.com/photos/museumofthemodernsnowglobe/5724469624/\" title=\"Draw your own snowglobe by Museum of the Modern Snowglobe, on Flickr\"><img src=\"http://farm6.static.flickr.com/5107/5724469624_0877cae046.jpg\" width=\"80%\" alt=\"Draw your own snowglobe\"></a></p>"
+  Title: "Draw your own museum, part 2"
+  NewsDate: "2011-05-15 20:35:07"
+  Published: true
+  EnteredDate: "2011-05-15 17:35:16"
+  Author: "Jeff"
+  Category: "Announcements"
+-
+  NewsID: 26
+  Content: "Christian Boltanksi\r\n\r\nFrom the series Favorite Objects.\r\n\r\nhttp://www.harvardartmuseums.org/collection/detail.dot?objectid=M24173.4\r\nhttp://www.harvardartmuseums.org/collection/detail.dot?objectid=M24173.13\r\nhttp://www.harvardartmuseums.org/collection/detail.dot?objectid=M24173.59"
+  NewsDate: "2011-10-03 07:07:00"
+  Published: false
+  EnteredDate: "2011-10-03 07:07:03"
+  Author: "Jeff"
+  Category: "General"
+- 
+  NewsID: 27
+  Title: "Snowglobes in the news"
+  NewsDate: "2014-01-03 11:35:00"
+  Content: "BBC News - The family company that invented the snow globe <a href=\"http://bbc.in/18H3G16\">http://bbc.in/18H3G16</a>"
+  Published: true
+  Author:
+  Category: "General"
+...
